@@ -9,7 +9,7 @@ buildscript {
     ext.detektVersion = "1.17.0"
 
     // https://github.com/ben-manes/gradle-versions-plugin
-    ext.versionsPluginVersion = "0.29.0"
+    ext.versionsPluginVersion = "0.42.0"
 
     repositories {
         google()
